@@ -6,3 +6,14 @@
 ["1234", "1567", "-2", "computer sience"]   ->  ["-2"]
 ["Russia", "Denmark", "Kazan"]   ->  []
 */
+
+string[] CreateArray(int N)
+{
+    string[] Array = new string[N];
+    Console.WriteLine($"Введите элементы массива строк в количестве {N}:");
+    for (int i = 0; i < N; i++)
+    {
+        Array[i] = Console.ReadLine();
+    }
+    return Array;
+}

@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\bin\Debug\net7.0\РешениеЗадачи.exe
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\bin\Debug\net7.0\РешениеЗадачи.deps.json
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\bin\Debug\net7.0\РешениеЗадачи.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\bin\Debug\net7.0\РешениеЗадачи.dll
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\bin\Debug\net7.0\РешениеЗадачи.pdb
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.dll
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\refint\РешениеЗадачи.dll
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.pdb
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\РешениеЗадачи.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\Итоги блока I четверти\РешениеЗадачи\obj\Debug\net7.0\ref\РешениеЗадачи.dll
