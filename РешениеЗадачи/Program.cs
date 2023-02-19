@@ -17,3 +17,25 @@ string[] CreateArray(int N)
     }
     return Array;
 }
+
+void SecondArray(string[] array)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3) count++;
+    }
+
+    string[] array2 = new string[count];
+    Console.WriteLine("Элементы длиной меньше либо равно 3: ");
+    count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            array2[count] = array[i];
+            Console.Write(array2[count] + " ");
+            count++;
+        }
+    }
+}
