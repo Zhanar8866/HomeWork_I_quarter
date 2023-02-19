@@ -39,3 +39,9 @@ void SecondArray(string[] array)
         }
     }
 }
+
+Console.Write("Введите количество элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+string[] array = CreateArray(n);
+SecondArray(array);
